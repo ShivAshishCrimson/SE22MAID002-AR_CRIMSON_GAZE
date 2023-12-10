@@ -1,11 +1,11 @@
 # SE22MAID002-AR_CRIMSON_GAZE
 Crimson Gaze AR Application generates an interactive map of Mahindra University on a plane surface and you can easily look around the map and the blocks pop up as you gaze across the map. ( just by looking with the camera in the direction of the block in the map). 
+
 NOTE : Install Viforia Plug in before imporitng project files into unity
-# PARAM SHIV ASHISH - SE22MAID002
 
-# MTECH AI AND DS
+PARAM SHIV ASHISH - SE22MAID002
 
-# AR PROJECT
+MTECH AI AND DS
 
 ![image2](https://github.com/ShivAshishCrimson/SE22MAID002-AR_CRIMSON_GAZE/assets/112803720/0eeb5178-0d9c-43bb-a052-3ff4426394bb)
 ![image4](https://github.com/ShivAshishCrimson/SE22MAID002-AR_CRIMSON_GAZE/assets/112803720/40976045-a554-48c9-93dd-3330f8932a7c)
